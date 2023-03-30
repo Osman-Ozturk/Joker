@@ -48,7 +48,7 @@ const App: React.FC<IProps> = () => {
       <Wrapper>
         <Row>
           <Header>Joker</Header>
-          <Image src="./images/owl.svg" alt="Laughing Face" />
+          <Image src="https://cdn03.ciceksepeti.com/cicek/kcm4930705-1/XL/cakatabloyagli-boya-erkek-baykus-resmi-gorseli-mdf-tablo-kcm4930705-1-ffc2468e89654f9fbfc7d542f830c626.jpg" alt="Laughing Face" />
         </Row>
         <Form onSubmit={getJokes}>
           <Search
