@@ -6,7 +6,7 @@ const myTheme: DefaultTheme = {
 
   colors: {
     main: 'cyan',
-    secondary: '#8A28DE',
+    secondary: '#4a4cba',
     white:"#fff",
     
   },
